@@ -2,7 +2,7 @@
 
 - I'm 16 years old
 - I'm french 🇫🇷
-- And I'm currently in 1st Class
+- And I'm currently in 11th Grade (Première in French)
 
 ## ✏ What can I do ?
 
