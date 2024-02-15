@@ -1,17 +1,21 @@
-## 👋 Who am I ?
+## 🙂 Qui suis-je ?
 
-- I'm 16 years old
-- I'm french 🇫🇷
-- And I'm currently in 11th Grade (Première in French)
+- J'ai 18 ans
+- Je suis en terminale
+- J'ai choisi comme spécialité Maths et NSI ainsi que l'option Maths Expertes
 
-## ✏ What can I do ?
+## 🏁 Mes compétences
 
-- HTML, CSS
-- JavaScript, TypeScript
-- A little bit of ReactJS (I'm currently learning this)
-- REST API
+- TypeScript
+- HTML / CSS
+- Docker
 
-## 🧐 I am interested in what ?
+## 🚧 Ce que je fait en ce moment
 
-- 🔌 Web
-- 🖥 SysAdmin and Docker
+- Expérimentaions avec k3s
+- Un lab sous vmware
+
+## 📁 Projets d'exemple
+
+- [Un morpion full stack avec NX](https://github.com/PadawanNico21/tic-tac-toe)
+
