@@ -12,7 +12,7 @@
 
 ## 🚧 Ce que je fait en ce moment
 
-- Expérimentaions avec k3s
+- Expérimentations avec k3s
 - Un lab sous vmware
 
 ## 📁 Projets d'exemple
