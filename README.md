@@ -1,6 +1,6 @@
 ## 🙂 Qui suis-je ?
 
-- J'ai 18 ans
+- J'ai 19 ans
 - Je suis en première année de BUT Informatique
 
 ## 🏁 Mes compétences
@@ -8,6 +8,7 @@
 - TypeScript
 - HTML / CSS
 - Docker
+- Python
 
 ## 🚧 Ce que je fait en ce moment
 
